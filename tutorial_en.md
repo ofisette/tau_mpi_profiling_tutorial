@@ -57,8 +57,8 @@ add it.
 [Tau documentation](http://www.cs.uoregon.edu/Research/tau/docs.php) is
 available on the project [Web site](http://www.cs.uoregon.edu/Research/tau/). We
 recommend reading the user guide, especially the first section which describes
-the instrumentation process, and also the section ''Some Common Application
-Scenario''.
+the instrumentation process, and also the section *Some Common Application
+Scenarios*.
 
 ## Tutorial
 
